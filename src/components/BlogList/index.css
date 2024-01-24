@@ -1,0 +1,7 @@
+.blogs-list-container {
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+
+  width: 80%;
+}

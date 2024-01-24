@@ -1,0 +1,29 @@
+.container {
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px;
+  width: 80%;
+}
+.heading {
+  color: #000000;
+  font-family: 'Roboto';
+}
+.avatar-container {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  border-radius: 12px;
+}
+.blog-author {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #8e8e8e;
+}
+.blog-content {
+  font-family: 'Roboto';
+  color: #2f4f4f;
+  padding-top: 10px;
+}
